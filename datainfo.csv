@@ -1,0 +1,291 @@
+,file_name,directory,sentence
+0,example.png,png/,<start> a group of giraffes standing next to each other . <end>
+1,image_captioning.png,png/,<start> a bunch of different types of different types of scissors . <end>
+2,model.png,png/,<start> a bunch of different types of different types of scissors . <end>
+3,COCO_train2014_000000000247.jpg,png/,<start> a small airplane is sitting on the runway . <end>
+4,COCO_train2014_000000000925.jpg,png/,<start> a man wearing a suit and tie with a tie . <end>
+5,COCO_train2014_000000001183.jpg,png/,<start> a man is playing frisbee in a park . <end>
+6,COCO_train2014_000000001526.jpg,png/,<start> a microwave oven sitting on top of a wooden table . <end>
+7,COCO_train2014_000000000250.jpg,png/,<start> a street sign with a street sign and a street sign . <end>
+8,COCO_train2014_000000000260.jpg,png/,<start> a man is standing in front of a bus . <end>
+9,COCO_train2014_000000000263.jpg,png/,<start> a man is standing next to a man on a skateboard . <end>
+10,COCO_train2014_000000000307.jpg,png/,<start> a dog is sitting on a green grass covered field . <end>
+11,COCO_train2014_000000000308.jpg,png/,<start> a man and woman in a kitchen with a large cake . <end>
+12,COCO_train2014_000000000309.jpg,png/,<start> a dog is laying on a wooden bench . <end>
+13,COCO_train2014_000000000312.jpg,png/,<start> a group of elephants walking through a forest . <end>
+14,COCO_train2014_000000000315.jpg,png/,<start> a beach with a beach and a beach umbrella . <end>
+15,COCO_train2014_000000000321.jpg,png/,<start> a hot dog with mustard and ketchup on a plate . <end>
+16,COCO_train2014_000000000322.jpg,png/,<start> a man is flying a kite in a park . <end>
+17,COCO_train2014_000000000326.jpg,png/,<start> a man is holding a wii remote in his hand . <end>
+18,COCO_train2014_000000000332.jpg,png/,<start> a plate of food with a fork and a fork . <end>
+19,COCO_train2014_000000000349.jpg,png/,<start> a train is pulling into a station with a train on it . <end>
+20,COCO_train2014_000000000368.jpg,png/,<start> a group of young men playing a game of soccer . <end>
+21,COCO_train2014_000000000370.jpg,png/,<start> a woman eating a piece of pizza on a plate . <end>
+22,COCO_train2014_000000000382.jpg,png/,<start> a man is skiing down a hill on a snowy day . <end>
+23,COCO_train2014_000000000384.jpg,png/,"<start> a living room with a couch , a television , and a television . <end>"
+24,COCO_train2014_000000000389.jpg,png/,<start> a man wearing a suit and tie with a tie . <end>
+25,COCO_train2014_000000000394.jpg,png/,<start> a dog with a red bow tie on a leash . <end>
+26,COCO_train2014_000000000404.jpg,png/,<start> a boat is docked in the water near a lake . <end>
+27,COCO_train2014_000000000419.jpg,png/,<start> a man is standing on a skateboard in the street . <end>
+28,COCO_train2014_000000000431.jpg,png/,<start> a man is playing tennis on a tennis court . <end>
+29,COCO_train2014_000000000436.jpg,png/,<start> a man is eating a piece of pizza . <end>
+30,COCO_train2014_000000000438.jpg,png/,<start> a bunch of different types of doughnuts on a table . <end>
+31,COCO_train2014_000000000443.jpg,png/,<start> a man holding a cat in his lap with a cat . <end>
+32,COCO_train2014_000000000446.jpg,png/,<start> a man is playing a video game on a wii game . <end>
+33,COCO_train2014_000000000450.jpg,png/,<start> a pizza with a slice missing on it . <end>
+34,COCO_train2014_000000000471.jpg,png/,<start> a yellow and yellow bus on a city street . <end>
+35,COCO_train2014_000000000490.jpg,png/,<start> a dog is sitting on a couch with a remote . <end>
+36,COCO_train2014_000000000491.jpg,png/,<start> a stuffed bear is sitting on a table next to a teddy bear . <end>
+37,COCO_train2014_000000000508.jpg,png/,<start> a person is skiing down a hill in the snow . <end>
+38,COCO_train2014_000000000510.jpg,png/,<start> a man sitting on a bench next to a tree . <end>
+39,COCO_train2014_000000000514.jpg,png/,<start> a bed with a bed in a room . <end>
+40,COCO_train2014_000000000529.jpg,png/,<start> a man is sitting on a motorcycle in a park . <end>
+41,COCO_train2014_000000000531.jpg,png/,<start> a group of people playing a game of tennis . <end>
+42,COCO_train2014_000000000532.jpg,png/,<start> a red and yellow bus driving down a street . <end>
+43,COCO_train2014_000000000540.jpg,png/,<start> a large airplane is parked on the runway . <end>
+44,COCO_train2014_000000000542.jpg,png/,<start> a group of people standing around a large airplane . <end>
+45,COCO_train2014_000000000560.jpg,png/,<start> a bathroom with a sink and a window . <end>
+46,COCO_train2014_000000000562.jpg,png/,<start> a glass vase with a glass and a glass vase <end>
+47,COCO_train2014_000000000572.jpg,png/,<start> a man and a woman are playing a video game . <end>
+48,COCO_train2014_000000000575.jpg,png/,<start> a cat laying on a wooden bench next to a cat . <end>
+49,COCO_train2014_000000000581.jpg,png/,<start> a dog is sitting on a couch with a cat . <end>
+50,COCO_train2014_000000000584.jpg,png/,<start> a bowl of food with a bowl of soup on it . <end>
+51,COCO_train2014_000000000595.jpg,png/,<start> a black and white photo of a bench in the grass . <end>
+52,COCO_train2014_000000000597.jpg,png/,<start> a group of elephants walking through a river . <end>
+53,COCO_train2014_000000000605.jpg,png/,<start> a plate of food with a fork and a fork . <end>
+54,COCO_train2014_000000000612.jpg,png/,<start> a large vase with a bunch of stuffed animals . <end>
+55,COCO_train2014_000000000620.jpg,png/,<start> a pizza is on a wooden table with a knife . <end>
+56,COCO_train2014_000000000625.jpg,png/,<start> two men playing frisbee in a field with a frisbee . <end>
+57,COCO_train2014_000000000629.jpg,png/,<start> a bicycle parked in front of a building . <end>
+58,COCO_train2014_000000000634.jpg,png/,<start> a man is jumping a skateboard on a ramp . <end>
+59,COCO_train2014_000000000643.jpg,png/,<start> a desk with a computer and a phone on it . <end>
+60,COCO_train2014_000000000650.jpg,png/,<start> a black and white cat sitting on a black car . <end>
+61,COCO_train2014_000000000656.jpg,png/,<start> a motorcycle parked on a street next to a building . <end>
+62,COCO_train2014_000000000659.jpg,png/,<start> a red and yellow train is parked on the side of a road . <end>
+63,COCO_train2014_000000000670.jpg,png/,<start> a bunch of doughnuts that are on a table . <end>
+64,COCO_train2014_000000000671.jpg,png/,<start> a black and white photo of a person on a snowboard . <end>
+65,COCO_train2014_000000000673.jpg,png/,<start> a beach with a surfboard and a beach <end>
+66,COCO_train2014_000000000681.jpg,png/,<start> a bus parked on a street next to a building . <end>
+67,COCO_train2014_000000000684.jpg,png/,<start> a toilet with a seat of a toilet in it . <end>
+68,COCO_train2014_000000000690.jpg,png/,<start> a man riding a motorcycle on a road . <end>
+69,COCO_train2014_000000000706.jpg,png/,<start> a giraffe standing in a field next to a tree . <end>
+70,COCO_train2014_000000000714.jpg,png/,<start> a bathroom with a toilet and a sink . <end>
+71,COCO_train2014_000000000716.jpg,png/,<start> a laptop computer sitting on a desk next to a keyboard . <end>
+72,COCO_train2014_000000000722.jpg,png/,<start> a group of people in a field with a kite . <end>
+73,COCO_train2014_000000000723.jpg,png/,<start> a motorcycle parked in front of a building . <end>
+74,COCO_train2014_000000000731.jpg,png/,<start> a woman walking in the rain with a umbrella . <end>
+75,COCO_train2014_000000000735.jpg,png/,<start> a man and woman in a kitchen with a cake and a table . <end>
+76,COCO_train2014_000000000753.jpg,png/,<start> a giraffe standing in a field next to a tree . <end>
+77,COCO_train2014_000000000754.jpg,png/,<start> a bathroom with a toilet and a sink . <end>
+78,COCO_train2014_000000000762.jpg,png/,"<start> a living room with a couch , chair and a television . <end>"
+79,COCO_train2014_000000000781.jpg,png/,<start> a person is flying a kite in the ocean . <end>
+80,COCO_train2014_000000000790.jpg,png/,<start> a woman sitting at a table with a cake and a drink . <end>
+81,COCO_train2014_000000000795.jpg,png/,<start> a train station with a train on the platform . <end>
+82,COCO_train2014_000000000797.jpg,png/,<start> a large elephant standing next to a pile of rocks . <end>
+83,COCO_train2014_000000000801.jpg,png/,<start> a tall clock tower with a clock on top . <end>
+84,COCO_train2014_000000000813.jpg,png/,<start> a bird is sitting on a branch in the water . <end>
+85,COCO_train2014_000000000821.jpg,png/,<start> a man and a woman are sitting on a bench . <end>
+86,COCO_train2014_000000000825.jpg,png/,<start> a cat laying on a bed next to a cat . <end>
+87,COCO_train2014_000000000828.jpg,png/,<start> a man is surfing on a wave in the ocean . <end>
+88,COCO_train2014_000000000839.jpg,png/,<start> a man and a woman playing frisbee in a park . <end>
+89,COCO_train2014_000000000853.jpg,png/,<start> a plate of food with a fork and a fork . <end>
+90,COCO_train2014_000000000882.jpg,png/,<start> a man holding a dog on a beach with a dog . <end>
+91,COCO_train2014_000000000897.jpg,png/,<start> a man is skiing down a snowy slope . <end>
+92,COCO_train2014_000000000901.jpg,png/,<start> a city street with a lot of cars and buildings . <end>
+93,COCO_train2014_000000000902.jpg,png/,<start> a bowl of oranges sitting on a table . <end>
+94,COCO_train2014_000000000908.jpg,png/,<start> a kitchen with a refrigerator and a refrigerator <end>
+95,COCO_train2014_000000000909.jpg,png/,<start> a laptop computer sitting on a desk next to a keyboard . <end>
+96,COCO_train2014_000000000913.jpg,png/,<start> a large airplane sitting on top of a runway . <end>
+97,COCO_train2014_000000000927.jpg,png/,<start> a man is standing on a skateboard in the middle of a building . <end>
+98,COCO_train2014_000000000934.jpg,png/,<start> a large elephant standing next to a small elephant . <end>
+99,COCO_train2014_000000000941.jpg,png/,<start> a laptop and a keyboard on a desk . <end>
+100,COCO_train2014_000000000943.jpg,png/,<start> a person holding a frisbee in a park . <end>
+101,COCO_train2014_000000000955.jpg,png/,<start> a room with a bunch of luggage on it . <end>
+102,COCO_train2014_000000000960.jpg,png/,<start> a woman is holding a cell phone in her hand . <end>
+103,COCO_train2014_000000000965.jpg,png/,<start> a person is laying on a bed with a snowboard . <end>
+104,COCO_train2014_000000000977.jpg,png/,<start> a cat is laying on a bed next to a cat . <end>
+105,COCO_train2014_000000000982.jpg,png/,<start> a stuffed animal with a red bow on a bed . <end>
+106,COCO_train2014_000000000984.jpg,png/,<start> a person is holding a banana in a basket . <end>
+107,COCO_train2014_000000000996.jpg,png/,<start> a group of giraffes standing next to each other . <end>
+108,COCO_train2014_000000001006.jpg,png/,<start> a woman in a black shirt and a black tie <end>
+109,COCO_train2014_000000001011.jpg,png/,<start> a man is standing on a skateboard in a city . <end>
+110,COCO_train2014_000000001014.jpg,png/,<start> a group of young men playing a game of frisbee . <end>
+111,COCO_train2014_000000001025.jpg,png/,<start> a dog is laying on a beach next to a dog . <end>
+112,COCO_train2014_000000001036.jpg,png/,<start> a plate of food with a fork and a fork . <end>
+113,COCO_train2014_000000001053.jpg,png/,<start> a group of people riding bikes on a street . <end>
+114,COCO_train2014_000000001059.jpg,png/,<start> a pizza with a knife and a knife on a plate . <end>
+115,COCO_train2014_000000001072.jpg,png/,<start> a large airplane is flying in the sky . <end>
+116,COCO_train2014_000000001084.jpg,png/,<start> a pair of scissors and a pair of scissors . <end>
+117,COCO_train2014_000000001085.jpg,png/,<start> a brown and white cat laying on a bed . <end>
+118,COCO_train2014_000000001090.jpg,png/,<start> a train is traveling down a track next to a building . <end>
+119,COCO_train2014_000000001098.jpg,png/,<start> a man is petting a giraffe in a fenced area . <end>
+120,COCO_train2014_000000001099.jpg,png/,<start> a bathroom with a toilet and a sink . <end>
+121,COCO_train2014_000000001102.jpg,png/,<start> a person on skis in the snow with a red and red flag . <end>
+122,COCO_train2014_000000001107.jpg,png/,<start> a large airplane with a bunch of people in it . <end>
+123,COCO_train2014_000000001108.jpg,png/,<start> a man is doing a trick on a skateboard . <end>
+124,COCO_train2014_000000001111.jpg,png/,<start> a view of a mountain with a mountain in the background <end>
+125,COCO_train2014_000000001122.jpg,png/,<start> a train is traveling down a track next to a building . <end>
+126,COCO_train2014_000000001139.jpg,png/,<start> a black cat sitting on a chair next to a black cat . <end>
+127,COCO_train2014_000000001144.jpg,png/,<start> a plate of food with a glass of wine . <end>
+128,COCO_train2014_000000001145.jpg,png/,<start> a man is cooking in a kitchen with a bowl of food . <end>
+129,COCO_train2014_000000001155.jpg,png/,"<start> a living room with a couch , a table and a television . <end>"
+130,COCO_train2014_000000001166.jpg,png/,<start> a large boat is docked in a lake . <end>
+131,COCO_train2014_000000001168.jpg,png/,<start> a large airplane sitting on top of a shelf . <end>
+132,COCO_train2014_000000001200.jpg,png/,<start> a person is flying a kite on a beach . <end>
+133,COCO_train2014_000000001204.jpg,png/,<start> a man holding a baseball bat in front of a crowd . <end>
+134,COCO_train2014_000000001213.jpg,png/,<start> a bathroom with a toilet and a sink . <end>
+135,COCO_train2014_000000001216.jpg,png/,<start> a person walking down a street next to a fire hydrant . <end>
+136,COCO_train2014_000000001224.jpg,png/,<start> a close up of a giraffe standing next to a building . <end>
+137,COCO_train2014_000000001232.jpg,png/,<start> a large airplane is flying in the sky . <end>
+138,COCO_train2014_000000001237.jpg,png/,<start> a woman and a woman are sitting in front of a teddy bear . <end>
+139,COCO_train2014_000000001238.jpg,png/,<start> a group of elephants walking in a field . <end>
+140,COCO_train2014_000000001261.jpg,png/,<start> a plate of food with a fork and a fork . <end>
+141,COCO_train2014_000000001264.jpg,png/,<start> a table with a bunch of different items on it . <end>
+142,COCO_train2014_000000001271.jpg,png/,<start> a man and woman in a kitchen with a laptop . <end>
+143,COCO_train2014_000000001282.jpg,png/,<start> a giraffe standing in a field next to a tree . <end>
+144,COCO_train2014_000000001295.jpg,png/,<start> a large clock tower with a clock on it . <end>
+145,COCO_train2014_000000001298.jpg,png/,<start> a man is sitting in front of a table with a dog . <end>
+146,COCO_train2014_000000001306.jpg,png/,<start> a living room with a couch and a table . <end>
+147,COCO_train2014_000000001307.jpg,png/,<start> a red truck with a red fire hydrant on it . <end>
+148,COCO_train2014_000000001308.jpg,png/,<start> a man riding a wave on a surfboard in the ocean . <end>
+149,COCO_train2014_000000001311.jpg,png/,<start> a large airplane sitting on the side of a runway . <end>
+150,COCO_train2014_000000001315.jpg,png/,<start> a man is sitting on a motorcycle in a parking lot . <end>
+151,COCO_train2014_000000001319.jpg,png/,<start> a cat is sitting on a table next to a television . <end>
+152,COCO_train2014_000000001323.jpg,png/,<start> a cat is standing in front of a building . <end>
+153,COCO_train2014_000000001330.jpg,png/,<start> a man is flying a kite in a park . <end>
+154,COCO_train2014_000000001332.jpg,png/,<start> a horse is standing in the grass near a fence . <end>
+155,COCO_train2014_000000001350.jpg,png/,<start> a large airplane is sitting on the ground . <end>
+156,COCO_train2014_000000001355.jpg,png/,<start> a kitchen with a stove and a stove top oven . <end>
+157,COCO_train2014_000000001359.jpg,png/,<start> a man flying a kite in a field of grass . <end>
+158,COCO_train2014_000000001360.jpg,png/,<start> a young boy is sitting in front of a refrigerator . <end>
+159,COCO_train2014_000000001366.jpg,png/,<start> a large group of people in a large body of water <end>
+160,COCO_train2014_000000001375.jpg,png/,<start> a woman holding a tennis racket in a tennis court . <end>
+161,COCO_train2014_000000001381.jpg,png/,<start> a group of people riding on a dirt road . <end>
+162,COCO_train2014_000000001386.jpg,png/,<start> a plate of food with a fork and a cup of coffee . <end>
+163,COCO_train2014_000000001390.jpg,png/,<start> a man is skiing down a snowy slope . <end>
+164,COCO_train2014_000000001392.jpg,png/,<start> a kitchen with a refrigerator and a refrigerator . <end>
+165,COCO_train2014_000000001397.jpg,png/,<start> a man is surfing in the ocean with a surfboard . <end>
+166,COCO_train2014_000000001401.jpg,png/,<start> a blender with a blender and a blender on it . <end>
+167,COCO_train2014_000000001403.jpg,png/,<start> a man is sitting in a boat on a boat . <end>
+168,COCO_train2014_000000001407.jpg,png/,<start> a man is playing tennis on a tennis court . <end>
+169,COCO_train2014_000000001408.jpg,png/,<start> a large airplane sitting on a runway next to a building . <end>
+170,COCO_train2014_000000001424.jpg,png/,<start> a woman and woman in a room with a cake . <end>
+171,COCO_train2014_000000001431.jpg,png/,<start> a man is playing with a frisbee in a park . <end>
+172,COCO_train2014_000000001451.jpg,png/,<start> a herd of cows standing on a lush green field . <end>
+173,COCO_train2014_000000001453.jpg,png/,<start> a group of people sitting on a boat in the water . <end>
+174,COCO_train2014_000000001455.jpg,png/,<start> a plate of food with a fork and a fork . <end>
+175,COCO_train2014_000000001472.jpg,png/,<start> a street sign with a sign on the side of it . <end>
+176,COCO_train2014_000000001488.jpg,png/,<start> a man is doing a trick on a skateboard . <end>
+177,COCO_train2014_000000001496.jpg,png/,<start> a small dog is sitting in front of a cake . <end>
+178,COCO_train2014_000000001497.jpg,png/,<start> a clock tower with a clock on top of it . <end>
+179,COCO_train2014_000000001501.jpg,png/,<start> a group of zebras standing in a fenced in area . <end>
+180,COCO_train2014_000000001505.jpg,png/,<start> a clock tower with a clock on top of it . <end>
+181,COCO_train2014_000000001507.jpg,png/,<start> a plate of food with a fork and a fork . <end>
+182,COCO_train2014_000000001510.jpg,png/,<start> a plate of food with a fork and a fork . <end>
+183,COCO_train2014_000000001515.jpg,png/,<start> a large airplane flying over a mountain in the sky . <end>
+184,COCO_train2014_000000001518.jpg,png/,<start> a cat sitting on a car seat with a car . <end>
+185,COCO_train2014_000000001522.jpg,png/,<start> a piece of cake with a fork and a fork . <end>
+186,COCO_train2014_000000001523.jpg,png/,<start> a large white truck parked in front of a building . <end>
+187,COCO_train2014_000000001527.jpg,png/,<start> a man is playing tennis on a tennis court . <end>
+188,COCO_train2014_000000001536.jpg,png/,<start> a pizza is on a pan on a pan . <end>
+189,COCO_train2014_000000001548.jpg,png/,<start> a man is walking on a beach with a surfboard . <end>
+190,COCO_train2014_000000001558.jpg,png/,<start> a plate of food with a fork and a fork . <end>
+191,COCO_train2014_000000001562.jpg,png/,<start> a black and white photo of a train station . <end>
+192,COCO_train2014_000000001569.jpg,png/,<start> a man holding a frisbee in his hand . <end>
+193,COCO_train2014_000000001579.jpg,png/,<start> a man wearing a suit and tie with a tie . <end>
+194,COCO_train2014_000000001580.jpg,png/,<start> a group of people on skis in the snow . <end>
+195,COCO_train2014_000000001586.jpg,png/,<start> a woman and woman are eating a hot dog . <end>
+196,COCO_train2014_000000001589.jpg,png/,<start> a couple of horses standing on top of a sandy beach . <end>
+197,COCO_train2014_000000001596.jpg,png/,<start> a man holding a tennis racket in his hand . <end>
+198,COCO_train2014_000000001611.jpg,png/,<start> a large jetliner sitting on top of a runway . <end>
+199,COCO_train2014_000000001622.jpg,png/,<start> a dog is sitting on a couch with a cat . <end>
+200,COCO_train2014_000000001625.jpg,png/,<start> a bicycle parked next to a red bus . <end>
+201,COCO_train2014_000000001637.jpg,png/,<start> a group of people on a beach with a kite . <end>
+202,COCO_train2014_000000001639.jpg,png/,<start> a man on a surfboard riding a wave . <end>
+203,COCO_train2014_000000001645.jpg,png/,<start> a train is going down a track in the snow . <end>
+204,COCO_train2014_000000001670.jpg,png/,<start> a man is skiing down a snowy slope . <end>
+205,COCO_train2014_000000001674.jpg,png/,<start> a pair of scissors and a knife on a table . <end>
+206,COCO_train2014_000000001681.jpg,png/,<start> a large television sitting on top of a shelf . <end>
+207,COCO_train2014_000000001688.jpg,png/,<start> a dog is sitting on a couch with a dog . <end>
+208,COCO_train2014_000000001697.jpg,png/,<start> a sandwich and a sandwich on a plate . <end>
+209,COCO_train2014_000000001706.jpg,png/,<start> a dog is sitting on a couch with a dog . <end>
+210,COCO_train2014_000000001709.jpg,png/,<start> a black and white cat sitting on a wooden bench . <end>
+211,COCO_train2014_000000001712.jpg,png/,<start> a train is pulling up to a train station . <end>
+212,COCO_train2014_000000001720.jpg,png/,<start> a bus that is parked on a street corner . <end>
+213,COCO_train2014_000000001732.jpg,png/,<start> a man is standing in a room holding a remote . <end>
+214,COCO_train2014_000000001737.jpg,png/,<start> a polar bear sitting on a rock branch . <end>
+215,COCO_train2014_000000001756.jpg,png/,<start> a group of people sitting around a table with a laptop . <end>
+216,COCO_train2014_000000001762.jpg,png/,<start> a red bus driving down a street next to a building . <end>
+217,COCO_train2014_000000001764.jpg,png/,<start> a man is playing tennis on a tennis court . <end>
+218,COCO_train2014_000000001771.jpg,png/,<start> a bed with a bed in a room . <end>
+219,COCO_train2014_000000001774.jpg,png/,<start> a man is doing a trick on a skateboard . <end>
+220,COCO_train2014_000000001777.jpg,png/,<start> a zebra standing next to a green field . <end>
+221,COCO_train2014_000000001781.jpg,png/,<start> a bunch of vegetables that are sitting on a table . <end>
+222,COCO_train2014_000000001785.jpg,png/,<start> a group of people flying a kite in a park . <end>
+223,COCO_train2014_000000001786.jpg,png/,<start> a close up of a plate of food with a knife and a knife . <end>
+224,COCO_train2014_000000001790.jpg,png/,<start> a man is sitting in a bathroom mirror . <end>
+225,COCO_train2014_000000001792.jpg,png/,<start> a bench is sitting on a wooden bench . <end>
+226,COCO_train2014_000000001804.jpg,png/,<start> a woman eating a donut with a fork . <end>
+227,COCO_train2014_000000001810.jpg,png/,<start> a bowl of food with a bowl of food on it . <end>
+228,COCO_train2014_000000001811.jpg,png/,<start> a man is doing a trick on a skateboard . <end>
+229,COCO_train2014_000000001813.jpg,png/,<start> a plate of food with a fork and a fork . <end>
+230,COCO_train2014_000000001815.jpg,png/,<start> a man holding a tennis racket and a tennis ball . <end>
+231,COCO_train2014_000000001822.jpg,png/,"<start> a living room with a couch , chair and a table . <end>"
+232,COCO_train2014_000000001837.jpg,png/,<start> a group of people sitting on a bench in front of a building . <end>
+233,COCO_train2014_000000001864.jpg,png/,<start> a man is sitting on a bench in a room . <end>
+234,COCO_train2014_000000001875.jpg,png/,<start> a man with a backpack and a hat on a cell phone . <end>
+235,COCO_train2014_000000001877.jpg,png/,<start> a train that is sitting on the tracks . <end>
+236,COCO_train2014_000000001888.jpg,png/,<start> a plate of food with a fork and a fork . <end>
+237,COCO_train2014_000000001895.jpg,png/,<start> a man is sitting in front of a laptop computer . <end>
+238,COCO_train2014_000000001900.jpg,png/,<start> a black and white photo of a dog on a beach <end>
+239,COCO_train2014_000000001902.jpg,png/,<start> a bed with a bed and a television on it . <end>
+240,COCO_train2014_000000001906.jpg,png/,"<start> a living room with a couch , a table , and a television . <end>"
+241,COCO_train2014_000000001907.jpg,png/,<start> a zebra standing next to a zebra in a pen . <end>
+242,COCO_train2014_000000001911.jpg,png/,<start> a group of people on skis in the snow . <end>
+243,COCO_train2014_000000001912.jpg,png/,<start> a flock of birds swimming in the water . <end>
+244,COCO_train2014_000000001915.jpg,png/,<start> a man sitting on a motorcycle in a parking lot . <end>
+245,COCO_train2014_000000001924.jpg,png/,<start> a street sign with a sign on the side of it . <end>
+246,COCO_train2014_000000001926.jpg,png/,<start> a cat is sitting on a sink next to a sink . <end>
+247,COCO_train2014_000000001941.jpg,png/,<start> a black and white photo of a train on a track <end>
+248,COCO_train2014_000000001942.jpg,png/,<start> a cat laying on a bed next to a cat . <end>
+249,COCO_train2014_000000001943.jpg,png/,<start> a group of people standing around a park bench . <end>
+250,COCO_train2014_000000001947.jpg,png/,<start> a group of people sitting around a table with a laptop . <end>
+251,COCO_train2014_000000001958.jpg,png/,<start> a man is sitting in front of a laptop computer . <end>
+252,COCO_train2014_000000001966.jpg,png/,<start> a man is playing tennis on a tennis court . <end>
+253,COCO_train2014_000000001994.jpg,png/,<start> a man is holding a glass of wine . <end>
+254,COCO_train2014_000000001997.jpg,png/,<start> a street sign with a sign on the side of it . <end>
+255,COCO_train2014_000000001999.jpg,png/,<start> a cat sitting on a chair next to a cat . <end>
+256,COCO_train2014_000000002001.jpg,png/,<start> a man is holding a surfboard in the ocean . <end>
+257,COCO_train2014_000000002007.jpg,png/,<start> a man is playing tennis on a tennis court . <end>
+258,COCO_train2014_000000002024.jpg,png/,"<start> a bathroom with a sink , toilet and a sink . <end>"
+259,COCO_train2014_000000002055.jpg,png/,<start> a man in a suit and tie with a tie . <end>
+260,COCO_train2014_000000002056.jpg,png/,<start> a man riding a horse on a dirt road . <end>
+261,COCO_train2014_000000002066.jpg,png/,<start> a giraffe standing next to a building with a bird . <end>
+262,COCO_train2014_000000002068.jpg,png/,<start> a plate of food with broccoli and broccoli . <end>
+263,COCO_train2014_000000002072.jpg,png/,<start> a man is playing a game of frisbee in a park . <end>
+264,COCO_train2014_000000002083.jpg,png/,<start> a woman is standing in front of a kitchen counter . <end>
+265,COCO_train2014_000000002089.jpg,png/,<start> a red and white bus driving down a street . <end>
+266,COCO_train2014_000000002093.jpg,png/,<start> a table with a bunch of different types of scissors . <end>
+267,COCO_train2014_000000002106.jpg,png/,<start> a table with a glass vase and a vase of wine . <end>
+268,COCO_train2014_000000002114.jpg,png/,<start> a beach with a beach and a beach and a beach <end>
+269,COCO_train2014_000000002135.jpg,png/,<start> a man and woman in a black and white umbrella . <end>
+270,COCO_train2014_000000002148.jpg,png/,<start> a red fire hydrant sitting in front of a building . <end>
+271,COCO_train2014_000000002150.jpg,png/,<start> a vase of flowers sitting on a table . <end>
+272,COCO_train2014_000000002178.jpg,png/,<start> a brown and white dog laying on a brown blanket . <end>
+273,COCO_train2014_000000002184.jpg,png/,<start> a group of people playing tennis on a tennis court . <end>
+274,COCO_train2014_000000002193.jpg,png/,<start> a stuffed bear sitting on a table next to a stuffed animal . <end>
+275,COCO_train2014_000000002197.jpg,png/,"<start> a bathroom with a sink , toilet and a sink . <end>"
+276,COCO_train2014_000000002209.jpg,png/,<start> a large body of water with a kite flying in the background . <end>
+277,COCO_train2014_000000002211.jpg,png/,<start> a man is riding a horse in a field . <end>
+278,COCO_train2014_000000002217.jpg,png/,"<start> a bathroom with a sink , toilet and a sink . <end>"
+279,COCO_train2014_000000002229.jpg,png/,<start> a group of people standing on a beach flying a kite . <end>
+280,COCO_train2014_000000002232.jpg,png/,<start> a zebra standing in a field with a zebra . <end>
+281,COCO_train2014_000000002244.jpg,png/,<start> a laptop computer sitting on top of a wooden desk . <end>
+282,COCO_train2014_000000002258.jpg,png/,<start> a large airplane sitting on a runway at an airport . <end>
+283,COCO_train2014_000000002270.jpg,png/,"<start> a living room with a couch , chair and a television . <end>"
+284,COCO_train2014_000000002276.jpg,png/,<start> a clock tower with a clock on top of it . <end>
+285,COCO_train2014_000000002278.jpg,png/,<start> a man is doing a trick on a skateboard . <end>
+286,COCO_train2014_000000002279.jpg,png/,<start> a bunch of green bananas hanging from a tree . <end>
+287,COCO_train2014_000000002280.jpg,png/,<start> a large jetliner flying through a blue sky . <end>
+288,COCO_train2014_000000002281.jpg,png/,<start> a car is parked in a parking lot . <end>
+289,COCO_train2014_000000002283.jpg,png/,"<start> a living room with a couch , a television , and a television . <end>"
